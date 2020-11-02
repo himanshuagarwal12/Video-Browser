@@ -9,7 +9,7 @@ Setting the configuration details
 
 Running the App
 
-1)git clone 
+1)git clone https://github.com/himanshuagarwal12/Video-Browser.git
 
 2)go the project folder in your system
 
